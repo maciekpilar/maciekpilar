@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maciejpilarskiportfolio.netlify.app/#start](https://maciejpilarskiportfolio.netlify.app/#start)
 
-- 📫 [Contact me] (mailto:maciekpilar12@gmail.com)
+- 📫 [Contact me](mailto:maciekpilar12@gmail.com)
 
 - ⚡ Fun fact **I love sport. I'm an instructor and competitor 🥋**
 
