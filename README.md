@@ -58,4 +58,4 @@
 </p>
 
 <br />
-<h2> It's nice to see 👀 You Have a nice day! 😁 </h2>
+<h2> It's nice to see You 👀 Have a nice day! 😁 </h2>
