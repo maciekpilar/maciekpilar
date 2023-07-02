@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **internship / practice**
 
-- 👨‍💻 Let's check my [portfolio](https://maciejpilarskiportfolio.netlify.app/#start)
+- 👨‍💻 Let's check my [portfolio](https://maciej-pilarski.netlify.app)
 
 - 📫 [Contact me](mailto:maciekpilar12@gmail.com)
 
