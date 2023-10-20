@@ -54,7 +54,7 @@
   <h3>🥈 Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,materialui,bootstrap,postman" />
   <h3>🥉 Other</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,github,git,figma,postman,discord," />  
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,github,git,figma,discord" />  
 </div>
 <!-- Stats -->
 <h3 align="left">⚡ Stats ⚡</h2>
