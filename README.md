@@ -26,7 +26,7 @@
 
 - 💻 Learning Front-End Development,
 
-- 🛠️ Learning Next.js to be closer FullStack Dev
+- 🛠️ Learning Next.js and (soon) React Native to be closer FullStack Dev
 
 - 🤞 Looking forward to get a job
 
