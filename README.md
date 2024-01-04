@@ -75,9 +75,31 @@
 </br></br>
 <h2 align='center'>Some of my apps</h2>
 
-- [TokaCars](https://tokacars.eu) </br> Application including frontend and backend. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of SASS. This application is used as a business card with a simple presentation of what the company has to offer. **Stack:** HTML, CSS (with SASS), JS, React, Next.js, Sanity (as database).
+1. [Powerso Chargers](https://powerso.pl) </br> Application for partners and car charging users and the ones planning journeys. The application allows registering, login and verification of users/partners, planning journeys with visible charging stations along the way. For users: reserving charging stations for a specific vehicle and paying for it with previously added card. For partners, the application has a dashboard containing data on charging and charger reservations in specific locations and their income. </br> </br>
+As a team member, I was responsible for creating the front-end part of the application as well as:
+- Creating extensive and reusable components </br>
+- Creating views based on the UI design </br>
+- Creating custom hooks </br>
+- Code optimization and app functionality </br>
+- Independent work with the libraries </br>
+- Modular SCSS styling </br>
+- Manual testing, issue detection and repair </br>
 
-- [Bezpieczneautousa](https://bezpieczneautousa.pl) </br> Application including frontend and backend as TokaCars. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of Tailwind. This application is used to present imported cars, boats, motorcycles and contact client <-> owner.  **Stack:** HTML, CSS (with Tailwind and NextUI), JS, React, Next.js, Sanity (as database).
+**Stack:** React, tailwind, REST API, SASS, formik, mui, headlessui, flowbite, notistack, framer motion, recoil
+
+
+2. [Bezpieczneautousa](https://bezpieczneautousa.pl) </br> Application including frontend and backend as TokaCars. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of Tailwind. This application is used to present imported cars, boats, motorcycles and contact client <-> owner. </br>
+
+**Stack:** HTML, CSS (with Tailwind and NextUI), JS, React, Next.js, Sanity (as database)
+
+
+3. [TokaCars](https://tokacars.eu) </br> Application including frontend and backend. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of SASS. This application is used as a business card with a simple presentation of what the company has to offer. </br>
+
+**Stack:** HTML, CSS (with SASS), JS, React, Next.js, Sanity (as database)
+
 <!-- Greetings -->
 </br></br>
 <h2 align="center"> It's nice to see You 👀 Have a nice day! 😁 </h2>
+
+> [!NOTE]
+> I am still looking for job and contact is upper 📨☝️
