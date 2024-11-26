@@ -93,7 +93,7 @@ As a team member, I was responsible for creating the front-end part of the appli
 **Stack:** HTML, CSS (with Tailwind and NextUI), JS, React, Next.js, Sanity (as database)
 
 
-3. [TokaCars](company closed, but i have code) </br> Application including frontend and backend. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of SASS. This application is used as a business card with a simple presentation of what the company has to offer. </br>
+3. TokaCars (company closed, but I have code) </br> Application including frontend and backend. The backend was provided by Sanity.io (Sanity Studio) and its selfcreated schematics. The frontend was created on Next.js and styled with the use of SASS. This application is used as a business card with a simple presentation of what the company has to offer. </br>
 
 **Stack:** HTML, CSS (with SASS), JS, React, Next.js, Sanity (as database)
 
